@@ -129,10 +129,10 @@ As an FDE, you are the bridge between "State-of-the-Art" research and "Productio
 
 ### 🏢 Industry Intelligence (The Gold Standard)
 Read these to understand how elite teams solve the "messy reality" of enterprise deployment.
-*   **[Palantir: Dev vs. Delta](https://blog.palantir.com/dev-versus-delta-demystifying-engineering-roles-at-palantir-26f5d84d64)** – The mandatory "Origin Story" of the FDE role.
+*   **[Palantir: Dev vs. Delta](https://blog.palantir.com/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87)** – The mandatory "Origin Story" of the FDE role.
 *   **[OpenAI: Customer Stories](https://openai.com/customer-stories)** – Real-world case studies on deploying GPT-4 into complex workflows (e.g., Morgan Stanley, Harvey).
-*   **[Google Cloud: Architecture Blog](https://cloud.google.com/blog/products/gcp)** – Focus on GKE, BigQuery, and Vertex AI enterprise patterns.
-*   **[Anthropic: Evaluating AI Agents](https://www.anthropic.com/news/evaluating-ai-agents)** – Deep dive into the "Evals" mindset required for production AI.
+*   **[Google Cloud: Architecture Blog](https://docs.cloud.google.com/architecture)** – Focus on GKE, BigQuery, and Vertex AI enterprise patterns.
+*   **[Anthropic: Evaluating AI Agents](https://www.anthropic.com/engineering/demystifying-evals-for-ai-agents)** – Deep dive into the "Evals" mindset required for production AI.
 
 ---
 
