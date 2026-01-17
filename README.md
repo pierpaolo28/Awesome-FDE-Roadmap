@@ -461,7 +461,7 @@ Being a "Forward" engineer means staying six months ahead of the industry. This 
 ---
 
 ### 🎙 Podcasts: Learning on the Go
-*   🎙 **[Latent Space](https://www.latentspace.ai/):** The best podcast for the "AI Engineer" era. Deep dives into RAG, Agents, and Evals.
+*   🎙 **[Latent Space](https://www.latent.space/):** The best podcast for the "AI Engineer" era. Deep dives into RAG, Agents, and Evals.
 *   🎙 **[The Cognitive Revolution](https://www.cognitiverevolution.ai/):** Interviews with the people actually building the frontier models you will be deploying.
 *   🎙 **[Software Engineering Daily](https://softwareengineeringdaily.com/):** Search their archives for "GCP," "Palantir," or "Distributed Systems".
 *   🎙 **[The Data Engineering Podcast](https://www.dataengineeringpodcast.com/):** Vital for staying updated on the "Modern Data Stack".
@@ -478,8 +478,8 @@ Being a "Forward" engineer means staying six months ahead of the industry. This 
 
 ### 🌐 High-Signal Blogs
 *   **[The Morning Paper (Archive)](https://blog.acolyer.org/):** A fantastic archive of CS paper summaries.
-*   **[Google Cloud "Architecture" Blog](https://cloud.google.com/blog/products/gcp):** Look specifically for "Reference Architectures".
 *   **[Eugene Yan’s Blog](https://eugeneyan.com/):** Incredible deep dives on building production-grade ML and Recommendation systems.
+*   **[Keeping-Learning](https://github.com/pierpaolo28/Keeping-Learning):** List of useful resources about Data, AI & Cloud.
 
 ---
 
