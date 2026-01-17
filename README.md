@@ -311,10 +311,10 @@ When given a case study, do not start coding. Use this four-step diagnostic appr
 ---
 
 ### 📖 Real-World Case Studies to Study
-*   **[Palantir vs. COVID-19 (UK NHS)](https://www.palantir.com/impact/health-nhs/):** A masterclass in integrating thousands of disparate data sources (beds, staff, PPE) into a single "Operating System" in weeks.
+*   **[Palantir vs. COVID-19 (UK NHS)](https://www.palantir.com/uk/healthcare/):** A masterclass in integrating thousands of disparate data sources (beds, staff, PPE) into a single "Operating System" in weeks.
 *   **[OpenAI & Morgan Stanley](https://openai.com/customer-stories/morgan-stanley):** How FDEs turned 100,000+ PDFs of financial research into an internal "Assistant" that maintains the bank's strict compliance standards.
-*   **[Scale AI & the US Army](https://scale.com/public-sector):** Deploying computer vision models to the "Tactical Edge"—processing satellite and drone data where internet is intermittent.
-*   **[Google Cloud & Ford](https://cloud.google.com/customers/ford):** Using GCP to modernize manufacturing and deploy AI across the supply chain.
+*   **[Scale AI & the US Army](https://scale.com/blog/scale-ai-dod-expand-army-rd-partnership):** Deploying computer vision models to the "Tactical Edge"—processing satellite and drone data where internet is intermittent.
+*   **[Google Cloud & Ford](https://corporate.ford.com//articles/products/ford-and-google-to-accelerate-auto-innovation/):** Using GCP to modernize manufacturing and deploy AI across the supply chain.
 
 ---
 
