@@ -4,7 +4,7 @@
 [![Status](https://img.shields.io/badge/Status-Deep_Dive_Complete-brightgreen)]()
 [![Focus](https://img.shields.io/badge/Focus-AI_|_Data_|_Consulting-blue)]()
 
-Forward Deployment Engineering is the art of shipping complex software where it matters most. It is a hybrid role—part **Software Engineer**, part **Data Architect**, and part **Strategic Consultant**. 
+Forward Deployment Engineering is the art of shipping complex software where it matters most. It is a hybrid role—part **Software Engineer**, part **AI/Data Architect**, and part **Strategic Consultant**. 
 
 FDEs are the "Technical Special Ops" who bridge the gap (The Delta) between a core product and a client’s messy, real-world reality.
 
