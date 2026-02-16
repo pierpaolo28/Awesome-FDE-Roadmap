@@ -449,6 +449,7 @@ Being a "Forward" engineer means staying six months ahead of the industry. This 
 *   📙 **[The Pyramid Principle](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516) (Barbara Minto):** The McKinsey standard for communication. Learn to lead with the conclusion and support it with data—essential for talking to client executives.
 *   📕 **[Enterprise Integration Patterns](https://www.enterpriseintegrationpatterns.com/) (Gregor Hohpe):** Essential for Phase 2. It teaches you how to "glue" legacy systems together using messaging, gateways, and translators.
 *   📓 **[Staff Engineer: Leadership beyond the management track](https://staffeng.com/book) (Will Larson):** FDE is often a "Staff-plus" role in terms of scope. This book helps you navigate the high-level technical leadership required at client sites.
+*   📒 **[Rewired: The McKinsey Playbook on How Leading Companies Win with Technology and AI](https://www.amazon.com/Rewired-Eric-Lamarre-dp-1394381905/dp/1394381905) (Eric Lamarre, Kate Smaje, Robert Levin):** The definitive playbook for planning and executing enterprise AI transformations—from roadmap to talent to operating model.
 
 ---
 
