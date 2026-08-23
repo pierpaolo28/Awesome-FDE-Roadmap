@@ -239,6 +239,7 @@ Scalable, automated evaluation for high-volume production data and CI/CD integra
 *   **[Codelab: Vibe Coding AI Agents – Managing the Agent Lifecycle with Agents CLI and ADK 2.0](https://codelabs.developers.google.com/agents-cli-adk-lifecycle)** – Coding-agent-driven variant of the same lifecycle.
 *   **[Agent Starter Pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)** – Production-ready templates with built-in CI/CD and evaluation.
 *   **[Pinecone: RAG Learning Center](https://www.pinecone.io/learn/series/rag/)** – Best end-to-end RAG education.
+*   **[AI Engineer Notebooks](https://github.com/calmrocks/ai-engineer-notebooks)** – Framework-free, hands-on Colab notebooks that build the applied-LLM skills an FDE ships client-side — RAG, evals-as-the-spine, agents from scratch (tool design, guardrails, MCP, Skills), fine-tuning vs LoRA, prompt-injection/security, and LLMOps — runnable end-to-end on the free Groq API.
 
 ---
 
