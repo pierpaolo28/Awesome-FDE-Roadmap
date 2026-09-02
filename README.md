@@ -410,6 +410,8 @@ When given a case study, do not start coding. Use this four-step diagnostic appr
 *   **Question:** "A bank wants real-time fraud detection (<100ms) using an LLM. How do you architect this?"
 *   **FDE Answer:** "An LLM is too slow for the primary path. I’d architect a two-tier system: Use a fast, deterministic model (XGBoost on Agent Platform Inference) for the 100ms decision. Then, pass the 'flagged' transactions to a **Gemini-powered agent** running on **Agent Runtime** for an asynchronous, deep-dive explanation that the fraud analyst can read 5 seconds later".
 
+*   **[Practice one against the clock: A10X Case-Study Arena](https://a10x.dev/arena):** A free, timed FDE deployment case (an L1 support agent for a 14-hospital system that must never invent clinical advice) with a graded review on six dimensions, so you can rehearse the C.A.S.E. discipline under time pressure before a real loop.
+
 ---
 
 ### 📖 Real-World Case Studies to Study
