@@ -571,6 +571,7 @@ Being a "Forward" engineer means staying six months ahead of the industry. This 
 ---
 
 ### 📧 Newsletters: The Daily Pulse
+*   📧 **[AI Weekly](https://aiweekly.co/):** A free three-times-weekly briefing on models, agents, vendors, policy, and research—useful context for client-facing AI implementation decisions.
 *   📧 **[Import AI (Jack Clark)](https://jack-clark.net/):** A weekly summary of AI progress and—crucially—AI policy/safety.
 *   📧 **[GCP Weekly](https://www.gcpweekly.com/):** A non-official but highly curated list of every update in the Google Cloud ecosystem.
 *   📧 **[Interconnects (Nathan Lambert)](https://www.interconnects.ai/):** Deep technical analysis of LLM training and alignment.
