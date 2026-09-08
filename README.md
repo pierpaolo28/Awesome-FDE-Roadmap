@@ -239,6 +239,7 @@ Scalable, automated evaluation for high-volume production data and CI/CD integra
 *   **[Codelab: Vibe Coding AI Agents – Managing the Agent Lifecycle with Agents CLI and ADK 2.0](https://codelabs.developers.google.com/agents-cli-adk-lifecycle)** – Coding-agent-driven variant of the same lifecycle.
 *   **[Agent Starter Pack](https://github.com/GoogleCloudPlatform/agent-starter-pack)** – Production-ready templates with built-in CI/CD and evaluation.
 *   **[Pinecone: RAG Learning Center](https://www.pinecone.io/learn/series/rag/)** – Best end-to-end RAG education.
+*   **[fde-framework](https://github.com/atulkapoor/fde-framework)** – Open-source engagement framework: problem statement → typed-fact discovery → seven pre-build gates → evidence-cited architecture → emitted project with evals and runbooks. Deterministic builds, on-prem/hybrid/air-gapped topologies. `pip install fde-framework`.
 
 ---
 
