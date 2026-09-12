@@ -575,6 +575,7 @@ Being a "Forward" engineer means staying six months ahead of the industry. This 
 *   📧 **[GCP Weekly](https://www.gcpweekly.com/):** A non-official but highly curated list of every update in the Google Cloud ecosystem.
 *   📧 **[Interconnects (Nathan Lambert)](https://www.interconnects.ai/):** Deep technical analysis of LLM training and alignment.
 *   📧 **[The Pragmatic Engineer](https://blog.pragmaticengineer.com/):** Insights into how big tech companies actually operate and ship software.
+*   📧 **[The AI Engineer (Paolo Perrone)](https://theaiengineer.substack.com/):** Weekly deep dives on production LLM inference: model selection, cost and latency tradeoffs, and the serving failure modes that surface when a demo meets a client's hardware.
 
 ---
 
