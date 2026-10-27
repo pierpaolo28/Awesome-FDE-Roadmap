@@ -417,6 +417,7 @@ When given a case study, do not start coding. Use this four-step diagnostic appr
 *   **[OpenAI & Morgan Stanley](https://openai.com/customer-stories/morgan-stanley):** How FDEs turned 100,000+ PDFs of financial research into an internal "Assistant" that maintains the bank's strict compliance standards.
 *   **[Scale AI & the US Army](https://scale.com/blog/scale-ai-dod-expand-army-rd-partnership):** Deploying computer vision models to the "Tactical Edge"—processing satellite and drone data where internet is intermittent.
 *   **[Google Cloud & Ford](https://corporate.ford.com//articles/products/ford-and-google-to-accelerate-auto-innovation/):** Using GCP to modernize manufacturing and deploy AI across the supply chain.
+*   **[Forward-Deployed Engineer Jobs](https://github.com/landedjobs/forward-deployed-engineer-jobs):** A live list of about 300 open FDE roles refreshed every 2 days; reading current job descriptions shows which industries and skills companies hire FDEs for before you prep your case answers.
 
 ---
 
