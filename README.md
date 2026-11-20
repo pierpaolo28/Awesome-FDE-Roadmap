@@ -412,6 +412,11 @@ When given a case study, do not start coding. Use this four-step diagnostic appr
 
 ---
 
+### 🎯 Practice Resources
+*   **[FDE Decomposition Interview Guide](https://github.com/pingananth/fde-decomp-interview-guide):** Free, MIT-licensed rubric and sample questions for the decomposition round, useful for practicing the C.A.S.E. "Clarify" step out loud and seeing what weak, adequate and strong answers look like.
+
+---
+
 ### 📖 Real-World Case Studies to Study
 *   **[Palantir vs. COVID-19 (UK NHS)](https://www.palantir.com/uk/healthcare/):** A masterclass in integrating thousands of disparate data sources (beds, staff, PPE) into a single "Operating System" in weeks.
 *   **[OpenAI & Morgan Stanley](https://openai.com/customer-stories/morgan-stanley):** How FDEs turned 100,000+ PDFs of financial research into an internal "Assistant" that maintains the bank's strict compliance standards.
